@@ -80,9 +80,8 @@ ProjectMuseuNacional/
 ├── app_museu_nacional.py      # Streamlit application
 ├── BaseMN_003.csv             # Museum dataset
 ├── requirements.txt           # Python dependencies
-├── images/                    # Artifact images (optional)
+├── MN_003/                    # Artifact images (optional)
 ├── README.md
-└── assets/                    # Additional resources
 ```
 
 ---
